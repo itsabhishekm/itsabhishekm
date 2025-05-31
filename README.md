@@ -5,6 +5,7 @@
 Heyy,
 
 Welcome to my space!
+
 I am a ..
 - 🎓 Graduate student in Data Science @University of Arizona.
 - 💼 Work experience: **Data Engineer** at **Ernst & Young** and **Data Scientist** at **Agappe Diagnostics**.
@@ -48,8 +49,7 @@ I am a ..
 
 ## 🌱 Outside the Code
 
-- Love going on hikes, cycling adventures, and capturing landscapes through photography.
-- Always up for discovering new food spots.
+- You can find me going out for hiking, cycling, landscape photography and trying out new food spots..
 - 🤝 Open to collaboration — feel free to **drop me a message**, and let's create something meaningful together!
 
 ---
