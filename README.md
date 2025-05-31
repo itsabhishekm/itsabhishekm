@@ -26,7 +26,7 @@ I am a ..
 
 ## 💡 Interests
 
-- I am very enthusiastic about working with **LLMs** and **Big Data**, and developing solutions which can help people in day-to-day life (**"Making a small difference in ways that I can"**)
+- I am very enthusiastic about working with **LLMs** and **Big Data**, and developing solutions which can help people in day-to-day life (**"Making a small difference in ways I can"**)
 - Exploring new developments in **Generative AI** and **Big Data**.
 
 ---
