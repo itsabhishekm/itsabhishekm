@@ -9,7 +9,7 @@ Welcome to my space!
 I am a ..
 - 🎓 Graduate student in Data Science @University of Arizona.
 - 💼 Work experience: **Data Engineer** at **Ernst & Young** and **Data Scientist** at **Agappe Diagnostics**.
-- 🧠 I specialize in working with Large Language Models (LLMs), Big Data, and cloud technologies.
+- 🧠 I specialize in working with **Large Language Models (LLMs)**, **Big Data**, and **cloud technologies**.
 
 ---
 
