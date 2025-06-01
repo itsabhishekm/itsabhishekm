@@ -18,7 +18,7 @@ I am a ..
 - **MCP (Model Context Protocol)**
 - **Agentic AI**
 - **LLMs**: LangChain, LLaMA, Groq, etc.
-- **Big Data on AWS**: S3, Lambda, Buckets
+- **Big Data on AWS**: S3, Lambda.
 - **Workflow Orchestration**: Apache Airflow
 - **Containerization & Orchestration**: Docker, Kubernetes
 
