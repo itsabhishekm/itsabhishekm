@@ -33,7 +33,9 @@ I am a ..
 
 ## ☁️ Cloud Platforms & Tools
 
-- **Cloud Services**: AWS and Azure
+- **Cloud Services**: 
+  - AWS
+  - Azure
 - **Data Tools**: 
   - Alteryx
   - Snowflake
