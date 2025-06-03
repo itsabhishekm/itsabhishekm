@@ -17,8 +17,11 @@ I am a ..
 
 - **MCP (Model Context Protocol)**
 - **Agentic AI**
-- **LLMs**: LangChain, LLaMA, Groq, GPT-6b, pegasus, Flan-T5, RoBERTa etc.
-- **Big Data on AWS**: S3, Lambda.
+- **LLMs**: LLaMA, Mixtral, GPT, pegasus, Flan-T5, RoBERTa etc.
+- **Framework**: LangChain, LangGraph, PySpark and PyTorch.
+- **Big Data**:
+   - **Azure**: Data Factory, Databricks and Data Lake.
+   - **AWS**: S3 and Lambda.
 - **Workflow Orchestration**: Apache Airflow
 - **Containerization & Orchestration**: Docker, Kubernetes
 
