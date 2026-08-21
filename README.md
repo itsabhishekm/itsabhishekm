@@ -4,72 +4,27 @@ Heyy,
 
 Welcome to my space!
 
-I am a ...
-- 🎓 Graduate student in Data Science @University of Arizona.
-- 💼 Work experience: **Advanced Data Analyst/ Data Engineer** at **Ernst & Young** and **Data Scientist** at **Agappe Diagnostics**.
-- 🧠 I specialize in working with **Large Language Models (LLMs)**, **Big Data**, and **cloud technologies**.
+I'm a **Data Engineer** with experience building and optimizing distributed data and AI workflows across the **finance and medical domains**.
+
+### What I Work On
+
+- **Data Engineering:** Building large-scale ingestion and transformation pipelines using **ETL/ELT, CDC, batch, full-load, upsert, and incremental processing**, along with workflow orchestration.
+
+- **Data Quality and Governance:** Implementing **data validation, reconciliation, schema enforcement, automated quality checks, and governance practices** to improve pipeline reliability and reduce data discrepancies.
+
+- **AI and ML Workflows:** Developing **RAG and LLM-integrated applications** involving document ingestion, embeddings, semantic retrieval, vector search, and retrieval-augmented generation. Also experienced with planning and deploying **agentic workflows on AWS** and building ML pipelines supporting analytics.
+
+- **Monitoring and Reliability:** Building monitoring and alerting workflows using **CloudWatch, logging, lineage analysis, audit logs, and source-level validation** to detect failures, investigate root causes, and maintain reliable production data pipelines.
+
+- **Performance Optimization:** Optimizing workloads across **database, query, distributed job, and pipeline layers** through table partitioning, data distribution strategies, SQL and join optimization, reduced data shuffling and scan overhead, and improved parallel execution through effective worker and resource allocation.
+
+I enjoy working on problems involving **scalable data systems, distributed processing, data reliability, workflow optimization, and AI-powered applications**.
+
+## Outside the Code
+
+- You can find me **hiking, cycling, exploring landscape photography, and trying out new food spots**.
+- 🤝 **Open to collaboration**: feel free to drop me a message, and let's create something meaningful together!
 
 ---
 
-## 🔭 Currently Working On
-
-- **MCP (Model Context Protocol)**
-- **Agentic AI**
-- **LLMs**: LLaMA, Mixtral, GPT, pegasus, Flan-T5, RoBERTa etc.
-- **Framework**: LangChain, LangGraph, PySpark and PyTorch.
-- **Big Data**:
-   - **Azure**: Data Factory, Databricks and Data Lake.
-   - **AWS**: S3 and Lambda.
-- **Workflow Orchestration**: Apache Airflow
-- **Containerization & Orchestration**: Docker, Kubernetes
-
----
-
-## 💡 Interests
-
-- I am very enthusiastic about working with **LLMs** and **Big Data**, and developing solutions which can help people in day-to-day life (**"Making a small difference in ways I can"**)
-- Exploring new developments in **Generative AI** and **Big Data**.
-
----
-
-## ☁️ Cloud Platforms & Tools
-
-- **Cloud Services**: 
-  - AWS
-  - Azure
-- **Data Tools**: 
-  - Alteryx
-  - Snowflake
-  - Databricks
-  - SQL (incl. SSIS)
-  - MongoDB
-  - Power BI
-  - Spotfire
-  - Tableau
-  - Docker
-
----
-
-## 🌱 Outside the Code
-
-- You can find me going out for hiking, cycling, landscape photography and trying out new food spots..
-- 🤝 Open to collaboration — feel free to **drop me a message**, and let's create something meaningful together!
-
----
-
-Thank you for stopping by! 
-
-<!--
-**itsabhishekm/itsabhishekm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Thank you for stopping by!**
